@@ -1,7 +1,8 @@
 These animations serve as a a supplement to
 
-Spectro-spatial evolution of the CMB I: generalized Boltzmann hierarchy
-Spectro-spatial evolution of the CMB II: transfer functions, power spectra and Fisher forecasts
+Spectro-spatial evolution of the CMB I: discretisation of the thermalisation Green's function
+Spectro-spatial evolution of the CMB II: generalised Boltzmann hierarchy
+Spectro-spatial evolution of the CMB III: transfer functions, power spectra and Fisher forecasts
 
 We provide three animations of the greens function. The other animations show the transfer functions (top) and photon spectra (bottom).
 All these animations are as seen in the scattering basis, except greens_y.mp4 which is in the computation basis.
